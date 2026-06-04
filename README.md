@@ -72,6 +72,7 @@ Salesforce Developer with 2.7+ years of experience designing and building scalab
 
 ### Languages
 
+* Apex
 * JavaScript
 * HTML
 * CSS
