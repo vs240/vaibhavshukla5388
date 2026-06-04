@@ -1,5 +1,11 @@
 # Hi, I'm Vaibhav Shukla 👋
 
+![Salesforce](https://img.shields.io/badge/Salesforce-Developer-blue)
+![Apex](https://img.shields.io/badge/Apex-Expert-blue)
+![LWC](https://img.shields.io/badge/LWC-Developer-orange)
+![Agentforce](https://img.shields.io/badge/Agentforce-AI-green)
+![GitHub Copilot](https://img.shields.io/badge/GitHub-Copilot-black)
+
 ### Salesforce Developer | Apex | LWC | Integrations | Agentforce AI
 
 Salesforce Developer with 2.7+ years of experience designing and building scalable enterprise CRM solutions on the Salesforce Platform. Experienced in Apex, Lightning Web Components (LWC), Salesforce Integrations, Agentforce AI, and automation frameworks. Passionate about solving complex business problems through clean architecture, reusable components, and modern development practices.
