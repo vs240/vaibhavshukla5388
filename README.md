@@ -151,9 +151,9 @@ Reusable Lightning Web Components built using Salesforce best practices.
 
 ## 📚 Certifications
 
-* Salesforce Certified Administrator
+* Salesforce Certified Administrator (https://drive.google.com/file/d/1JoawVoTFNHj7Czrc1kEJDR7i8zu1FQ3i/view?usp=sharing)
 * Salesforce Platform Developer I (In Progress)
-* GitHub Copilot Certification
+* GitHub Copilot Certification (https://drive.google.com/file/d/1LXFsLX7cDt-uutwLUdi2jDCmonDkz3XU/view?usp=sharing)
 
 ---
 
@@ -174,9 +174,9 @@ Reusable Lightning Web Components built using Salesforce best practices.
 
 💼 LinkedIn: https://www.linkedin.com/in/vaibhav-shukla-20a564212
 
-🏆 Trailhead: [https://www.salesforce.com/trailblazer/](https://www.salesforce.com/trailblazer/vaibhavshuklas50fkgneetjp)
+🏆 Trailhead: [vaibhavshukla50fkgneetjp](https://www.salesforce.com/trailblazer/vaibhavshuklas50fkgneetjp)
 
-💻 LeetCode: [Add Your LeetCode Profile URL](https://leetcode.com/u/vs240/)
+💻 LeetCode: [vs240](https://leetcode.com/u/vs240/)
 
 ---
 
