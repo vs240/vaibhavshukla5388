@@ -174,9 +174,9 @@ Reusable Lightning Web Components built using Salesforce best practices.
 
 💼 LinkedIn: https://www.linkedin.com/in/vaibhav-shukla-20a564212
 
-🏆 Trailhead: https://www.salesforce.com/trailblazer/
+🏆 Trailhead: [https://www.salesforce.com/trailblazer/](https://www.salesforce.com/trailblazer/vaibhavshuklas50fkgneetjp)
 
-💻 LeetCode: Add Your LeetCode Profile URL
+💻 LeetCode: [Add Your LeetCode Profile URL](https://leetcode.com/u/vs240/)
 
 ---
 
