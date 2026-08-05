@@ -152,7 +152,7 @@ Reusable Lightning Web Components built using Salesforce best practices.
 ## 📚 Certifications
 
 * Salesforce Certified Administrator (https://drive.google.com/file/d/1JoawVoTFNHj7Czrc1kEJDR7i8zu1FQ3i/view?usp=sharing)
-* Salesforce Platform Developer I (In Progress)
+* Salesforce Platform Developer I (https://drive.google.com/file/d/18D-CmzZwhqsO7OzCzdLbC6aYeGsqYfEB/view?usp=sharing)
 * GitHub Copilot Certification (https://drive.google.com/file/d/1LXFsLX7cDt-uutwLUdi2jDCmonDkz3XU/view?usp=sharing)
 
 ---
