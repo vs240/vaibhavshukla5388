@@ -150,10 +150,34 @@ Reusable Lightning Web Components built using Salesforce best practices.
 ---
 
 ## 📚 Certifications
+## 📚 Certifications
 
-* Salesforce Certified Administrator (https://drive.google.com/file/d/1JoawVoTFNHj7Czrc1kEJDR7i8zu1FQ3i/view?usp=sharing)
-* Salesforce Platform Developer I (https://drive.google.com/file/d/18D-CmzZwhqsO7OzCzdLbC6aYeGsqYfEB/view?usp=sharing)
-* GitHub Copilot Certification (https://drive.google.com/file/d/1LXFsLX7cDt-uutwLUdi2jDCmonDkz3XU/view?usp=sharing)
+<table>
+  <tr>
+    <td align="center">
+      <a href="YOUR_ADMIN_CERT_LINK">
+        <img src="https://img.shields.io/badge/Salesforce-Certified%20Administrator-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge">
+      </a>
+    </td>
+    <td align="center">
+      <a href="YOUR_PD1_CERT_LINK">
+        <img src="https://img.shields.io/badge/Salesforce-Platform%20Developer%20I-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="YOUR_JS_CERT_LINK">
+        <img src="https://img.shields.io/badge/Salesforce-JavaScript%20Developer-00A1E0?logo=salesforce&logoColor=white&style=for-the-badge">
+      </a>
+    </td>
+    <td align="center">
+      <a href="YOUR_COPILOT_CERT_LINK">
+        <img src="https://img.shields.io/badge/GitHub-Copilot%20Certified-181717?logo=github&logoColor=white&style=for-the-badge">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
