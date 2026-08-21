@@ -150,7 +150,6 @@ Reusable Lightning Web Components built using Salesforce best practices.
 ---
 
 ## 📚 Certifications
-## 📚 Certifications
 
 <table>
   <tr>
